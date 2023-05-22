@@ -1,0 +1,75 @@
+.login-main-component{
+    display: flex;
+    justify-content: center;
+    margin-top: 120px;
+}
+.lableText{
+    font-weight: bold;
+}
+.loginCard{
+    width: 500px;
+    padding: 25px;
+}
+.loginBtn {
+    width: 280px;
+    margin-top: 20px;
+    font-weight: 500;
+    height: 50px;
+    border-radius: 5px;
+}
+.navBarContainer{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    background-color: rgb(27, 6, 53);
+    padding: auto;
+    padding: 10px;
+}
+
+.site-card-wrapper {
+    padding: 30px;
+    background: #4f2c8d;
+    margin-bottom: auto;
+    min-height: 100vh;
+}
+.adminMenu{
+    background-color: #4f2c8d;
+    padding: 20px;
+    
+}
+.dropDown{
+    color: #fff;
+    font-size: 18px;
+    border: 1px solid white;
+    padding: 8px;
+   
+}
+
+
+#btn{
+    
+    width: 300px;
+    background-image: linear-gradient(to right, #4b6cb7 0%, #182848  51%, #4b6cb7  100%);
+  /* margin-top: 100px; */
+    text-align: center;
+    text-transform: uppercase;
+    transition: 0.5s;
+    color: white;            
+    border-radius: 10px;
+    display: block;
+    font-size: small;
+  
+    
+}
+
+
+
+
+
+
+
+/* .site-button-ghost-wrapper {
+    padding: 30px 20px 16px;
+    background: rgb(190, 200, 200);
+    margin: center;
+  } */

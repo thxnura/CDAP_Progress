@@ -1,0 +1,17 @@
+.cart-main-component{
+    display: flex;
+    justify-content: center;
+    margin-top: 70px;
+}
+
+.cartCard{
+    width: 1200px;
+    padding: 25px;
+}
+.total{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    align-items: center;
+    margin: 16px 0px;
+}

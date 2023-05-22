@@ -1,0 +1,22 @@
+.register-main-component{
+    display: flex;
+    justify-content: center;
+    margin-top: 70px;
+}
+
+.loginCard{
+    width: 500px;
+    padding: 25px;
+}
+
+.lableText{
+    font-weight: bold;
+}
+
+.loginBtn {
+    width: 140px;
+    margin-top: 20px;
+    font-weight: 500;
+    height: 50px;
+    border-radius: 5px;
+}

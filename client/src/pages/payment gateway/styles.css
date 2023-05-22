@@ -1,0 +1,35 @@
+.checkoutForm{
+    width: 600px;
+    padding: 25px;
+    background-color: #202c64;
+    color: #fff;
+    margin: 30px 0;
+}
+.card{
+   background-color: #fff;
+   height: a;
+   padding: 18px;
+   border-radius: 4px;
+}
+.payBtn{
+    margin: 20px 20%;
+    padding: 6px;
+    width: 240px;
+    background-color: #0570de;
+    border-radius: 4px;
+    border: none;
+    font-size: 16px;
+    font-weight: bold;
+}
+.label .ant-form-item-required{
+    color: #fff;
+}
+.email{
+    padding: 10px 16px;
+    background-color: #1890ff;
+    border: none;
+    border-radius: 4px;
+    color: #fff;
+    margin-left: 45%;
+
+}
